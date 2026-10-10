@@ -1,5 +1,4 @@
 #!/bin/bash
 
 echo "Starting deployment..."
-echo "Checking application environment..."
-echo "Application deployment completed successfully."
+echo "Production deployment from staging branch."
