@@ -2,4 +2,4 @@
 
 echo "Starting deployment..."
 echo "Checking application environment..."
-echo "Application deployment completed successfully."
+echo "Development deployment configuration\."
