@@ -1,5 +1,5 @@
-#!/bin/bash
-
-echo "Starting deployment..."
-echo "Checking application environment..."
-echo "Development deployment configuration\."
+<<<<<<< HEAD
+echo "Development deployment configuration."
+=======
+echo "Production deployment from staging branch."
+>>>>>>> staging
